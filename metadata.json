@@ -1,0 +1,8 @@
+{
+  "name": "Algoritmolândia",
+  "description": "Um jogo educacional gamificado para aprender lógica de programação com VisualG, utilizando IA como tutor pedagógico.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
